@@ -1,0 +1,2 @@
+Copy jupyterhub.service to  /lib/systemd/system/
+Copy jupyterhub folder to /etc
