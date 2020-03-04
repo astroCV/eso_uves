@@ -34,4 +34,6 @@
 ## Authors
 
 - Roberto Munoz
+- Roberto Gonzalez
 - Joaquin Prieto
+- Pedro Fluxa
